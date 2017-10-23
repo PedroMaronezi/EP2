@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1446671344 source:c:\users\pgm\documents\poli\lab oo\ep's\ep2\ep2\main.cpp
+	<iostream>
+
+1508695600 source:c:\users\pgm\documents\poli\lab oo\ep's\ep2\ep2\src\grafico.cpp
+	"Grafico.h"
+
+1508695600 c:\users\pgm\documents\poli\lab oo\ep's\ep2\ep2\include\grafico.h
+
+1508697299 source:c:\users\pgm\documents\poli\lab oo\ep's\ep2\ep2\src\ponto.cpp
+	"Ponto.h"
+	<iostream>
+
+1508646615 c:\users\pgm\documents\poli\lab oo\ep's\ep2\ep2\include\ponto.h
+
+1508696225 source:c:\users\pgm\documents\poli\lab oo\ep's\ep2\ep2\src\serie.cpp
+	"Serie.h"
+	"Ponto.h"
+	<iostream>
+	<string>
+
+1508646514 c:\users\pgm\documents\poli\lab oo\ep's\ep2\ep2\include\serie.h
+	"Ponto.h"
+	<iostream>
+
+1508697726 source:c:\users\pgm\documents\poli\lab oo\ep's\ep2\ep2\src\serietemporal.cpp
+	"SerieTemporal.h"
+	"Serie.h"
+	"Ponto.h"
+	<iostream>
+	<string>
+
+1508693811 c:\users\pgm\documents\poli\lab oo\ep's\ep2\ep2\include\serietemporal.h
+	"Ponto.h"
+	"Serie.h"
+	<iostream>
+
+1508700966 source:c:\users\pgm\documents\poli\lab oo\ep's\ep2\ep2\src\eixo.cpp
+	"Eixo.h"
+	"SerieTemporal.h"
+	"Serie.h"
+	"Ponto.h"
+	<iostream>
+	<string>
+
+1508700766 c:\users\pgm\documents\poli\lab oo\ep's\ep2\ep2\include\eixo.h
+	"SerieTemporal.h"
+	"Serie.h"
+	"Ponto.h"
+	<iostream>
+	<string>
+
